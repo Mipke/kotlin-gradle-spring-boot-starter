@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kotlin-gradle-spring-boot-starter
+
+starter:
+  config:
+    someProperty: aValue
